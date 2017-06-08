@@ -2,4 +2,4 @@
 
 Jun 7
 Hello World Arduino Uno
-- turned LED (Pin13) on/off with delay.
+1) Turned LED (Pin 13) On, Off, On and Off with Delay) in loop.
